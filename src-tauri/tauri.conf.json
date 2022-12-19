@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "Music",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "https://music.youtube.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
