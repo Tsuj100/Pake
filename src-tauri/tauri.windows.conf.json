@@ -1,17 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": [
-        "png/youtube_music_256.ico",
-        "png/youtube_music_32.ico"
-      ],
-      "identifier": "com.youtube_music",
+      "icon": ["png/music_256.ico", "png/music_32.ico"],
+      "identifier": "com.music",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/youtube_music_32.ico"],
+      "resources": ["png/music_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {

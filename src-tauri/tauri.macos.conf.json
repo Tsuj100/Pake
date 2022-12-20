@@ -1,8 +1,8 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/youtube_music.icns"],
-      "identifier": "com.youtube_music",
+      "icon": ["icons/music.icns"],
+      "identifier": "com.music",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
